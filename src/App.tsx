@@ -34,11 +34,11 @@ export default function App() {
       <section className="container mx-auto flex min-h-screen items-center justify-center px-6">
         <div className="text-center">
           <p className="mb-4 text-blue-400 text-lg">
-            Hello, my name is
+          Salom
           </p>
 
           <h1 className="text-6xl font-bold">
-            MuhammadQodir
+            Bu QODIR
           </h1>
 
           <h2 className="mt-4 text-2xl text-zinc-300">
@@ -71,7 +71,7 @@ export default function App() {
       {/* Projects */}
       <section id="projects" className="container mx-auto px-6 pb-24">
         <p className="mb-2 text-center font-mono text-sm text-blue-400">
-          $ ls ./projects
+          Projects
         </p>
         <h2 className="mb-12 text-center text-4xl font-bold">
           Projects
