@@ -58,7 +58,7 @@ export default function App() {
             </a>
 
             <a
-              href="/qodir-devops-portfolio/cv.pdf"
+              href="/qodir-devops-portfolio/1.pdf"
               download
               className="inline-block rounded-xl border border-white/30 px-8 py-4 font-semibold text-white transition hover:border-blue-400 hover:text-blue-400"
             >
