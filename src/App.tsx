@@ -41,10 +41,6 @@ export default function App() {
             DevOps Engineer
           </h2>
 
-          <p className="mt-6 max-w-xl text-zinc-300">
-            Docker • Kubernetes • Linux • Terraform • AWS • GitHub Actions  CI/CD • Bash Scripting • Python • Ansible • Jenkins • Prometheus • Grafana
-          </p>
-
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <a
               href="#projects"
@@ -54,7 +50,7 @@ export default function App() {
             </a>
 
             <a
-              href="/qodir-devops-portfolio/cv.pdf"
+              href="/Users/oe/Documents/DevOpsPRs/qodir-devops-portfolio/cv.pdf"
               download
               className="inline-block rounded-xl border border-white/30 px-8 py-4 font-semibold text-white transition hover:border-blue-400 hover:text-blue-400"
             >
