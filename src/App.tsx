@@ -34,11 +34,12 @@ export default function App() {
       <section className="container mx-auto flex min-h-screen items-center justify-center px-6">
         <div className="text-center">
           <p className="mb-4 text-blue-400 text-lg">
-          Salom
+          Assalom aleykum, men MuhammadQodir, DevOps muhandisiman. Men Docker, Kubernetes, Linux, Terraform, AWS, GitHub Actions CI/CD, Bash Scripting, Python, Ansible, Jenkins, Prometheus va Grafana kabi texnologiyalar bilan ishlash tajribasiga egaman.
           </p>
 
           <h1 className="text-6xl font-bold">
-            Bu QODIR
+            Sizni DevOps muhandisi sifatida kutib olishdan mamnunman! Quyida men qilgan Projectlar va Github link bor, u joyda mening ishlarim bilan yaqindan tanishishingiz mumkin.
+
           </h1>
 
           <h2 className="mt-4 text-2xl text-zinc-300">
@@ -58,7 +59,7 @@ export default function App() {
             </a>
 
             <a
-              href="/qodir-devops-portfolio/1.pdf"
+              href="/qodir-devops-portfolio/cv.pdf"
               download
               className="inline-block rounded-xl border border-white/30 px-8 py-4 font-semibold text-white transition hover:border-blue-400 hover:text-blue-400"
             >
