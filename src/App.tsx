@@ -36,11 +36,9 @@ export default function App() {
           <p className="mb-4 text-blue-400 text-lg">
           Assalom aleykum, men MuhammadQodir, DevOps muhandisiman. Men Docker, Kubernetes, Linux, Terraform, AWS, GitHub Actions CI/CD, Bash Scripting, Python, Ansible, Jenkins, Prometheus va Grafana kabi texnologiyalar bilan ishlash tajribasiga egaman.
           </p>
-
-          <h1 className="text-6xl font-bold">
-            Sizni DevOps muhandisi sifatida kutib olishdan mamnunman! Quyida men qilgan Projectlar va Github link bor, u joyda mening ishlarim bilan yaqindan tanishishingiz mumkin.
-
-          </h1>
+          <p className="text-6xl font-bold">
+            Sizni DevOps muhandisi sifatida kutib olishdan mamnunman! 
+          </p>
 
           <h2 className="mt-4 text-2xl text-zinc-300">
             DevOps Engineer
