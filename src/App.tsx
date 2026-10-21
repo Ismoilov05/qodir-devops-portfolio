@@ -33,19 +33,15 @@ export default function App() {
       {/* Hero */}
       <section className="container mx-auto flex min-h-screen items-center justify-center px-6">
         <div className="text-center">
-          <p className="mb-4 text-blue-400 text-lg">
-          Assalom aleykum, men MuhammadQodir, DevOps muhandisiman. Men Docker, Kubernetes, Linux, Terraform, AWS, GitHub Actions CI/CD, Bash Scripting, Python, Ansible, Jenkins, Prometheus va Grafana kabi texnologiyalar bilan ishlash tajribasiga egaman.
-          </p>
-
-          <p className="text-6xl font-bold">
-            Marhamat! 
+        <p className="mb-4 font-mono text-sm tracking-widest text-blue-300 sm:text-base">
+          Assalom aleykum, men MuhammadQodir, DevOps muhandisi sifatida Men Docker, Kubernetes, Linux, Terraform,  GitHub Actions CI/CD, Bash Scripting, Python, Ansible, Jenkins, Prometheus va Grafana kabi texnologiyalar bilan ishlash tajribasiga egaman.
           </p>
 
           <h2 className="mt-4 text-2xl text-zinc-300">
             DevOps Engineer
           </h2>
 
-          <p className="mt-6 max-w-xl text-zinc-400">
+          <p className="mt-6 max-w-xl text-zinc-300">
             Docker • Kubernetes • Linux • Terraform • AWS • GitHub Actions  CI/CD • Bash Scripting • Python • Ansible • Jenkins • Prometheus • Grafana
           </p>
 
